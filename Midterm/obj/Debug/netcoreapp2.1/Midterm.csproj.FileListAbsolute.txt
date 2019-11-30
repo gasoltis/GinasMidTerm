@@ -1,0 +1,20 @@
+C:\Users\Gsoltis\source\repos\Midterm\Midterm\bin\Debug\netcoreapp2.1\Midterm.deps.json
+C:\Users\Gsoltis\source\repos\Midterm\Midterm\bin\Debug\netcoreapp2.1\Midterm.runtimeconfig.json
+C:\Users\Gsoltis\source\repos\Midterm\Midterm\bin\Debug\netcoreapp2.1\Midterm.runtimeconfig.dev.json
+C:\Users\Gsoltis\source\repos\Midterm\Midterm\bin\Debug\netcoreapp2.1\Midterm.dll
+C:\Users\Gsoltis\source\repos\Midterm\Midterm\bin\Debug\netcoreapp2.1\Midterm.pdb
+C:\Users\Gsoltis\source\repos\Midterm\Midterm\obj\Debug\netcoreapp2.1\Midterm.csprojAssemblyReference.cache
+C:\Users\Gsoltis\source\repos\Midterm\Midterm\obj\Debug\netcoreapp2.1\Midterm.AssemblyInfoInputs.cache
+C:\Users\Gsoltis\source\repos\Midterm\Midterm\obj\Debug\netcoreapp2.1\Midterm.AssemblyInfo.cs
+C:\Users\Gsoltis\source\repos\Midterm\Midterm\obj\Debug\netcoreapp2.1\Midterm.dll
+C:\Users\Gsoltis\source\repos\Midterm\Midterm\obj\Debug\netcoreapp2.1\Midterm.pdb
+C:\Users\Gsoltis\source\repos\GRAND CIRCUS - Labs\Midterm\Midterm\bin\Debug\netcoreapp2.1\Midterm.deps.json
+C:\Users\Gsoltis\source\repos\GRAND CIRCUS - Labs\Midterm\Midterm\bin\Debug\netcoreapp2.1\Midterm.runtimeconfig.json
+C:\Users\Gsoltis\source\repos\GRAND CIRCUS - Labs\Midterm\Midterm\bin\Debug\netcoreapp2.1\Midterm.runtimeconfig.dev.json
+C:\Users\Gsoltis\source\repos\GRAND CIRCUS - Labs\Midterm\Midterm\bin\Debug\netcoreapp2.1\Midterm.dll
+C:\Users\Gsoltis\source\repos\GRAND CIRCUS - Labs\Midterm\Midterm\bin\Debug\netcoreapp2.1\Midterm.pdb
+C:\Users\Gsoltis\source\repos\GRAND CIRCUS - Labs\Midterm\Midterm\obj\Debug\netcoreapp2.1\Midterm.csprojAssemblyReference.cache
+C:\Users\Gsoltis\source\repos\GRAND CIRCUS - Labs\Midterm\Midterm\obj\Debug\netcoreapp2.1\Midterm.AssemblyInfoInputs.cache
+C:\Users\Gsoltis\source\repos\GRAND CIRCUS - Labs\Midterm\Midterm\obj\Debug\netcoreapp2.1\Midterm.AssemblyInfo.cs
+C:\Users\Gsoltis\source\repos\GRAND CIRCUS - Labs\Midterm\Midterm\obj\Debug\netcoreapp2.1\Midterm.dll
+C:\Users\Gsoltis\source\repos\GRAND CIRCUS - Labs\Midterm\Midterm\obj\Debug\netcoreapp2.1\Midterm.pdb

@@ -1,0 +1,13 @@
+HitchHikers Guide to the Galaxy,Douglas Adams,1,12/13/2019
+Mans Search for Meaning,Victor Frankl,1,12/19/2019
+In search of Schrodinger's Cat,John Grippin,0,
+Dantes Inferno,Dante Alighiera,1,01/16/2020
+Great Expectations,Charles Dickens,0,
+Animal Farm,George Orwell,0,
+Time Machine,H. G. Wells,1,01/04/2020
+Crime and Punishment,Fyodor Dostieveski,0,
+Hunger Games,Suzanne Collins,1,02/08/2020
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,1,01/22/2020
+Ready Player One,Ernest Cline,0,
+Little Women,Luisa May Alcott,0,
+Title,Author,0,null
